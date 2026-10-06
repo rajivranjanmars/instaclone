@@ -16,4 +16,4 @@ Run `npm ci` and `npm run dev`; `npm run build` creates the production bundle. C
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
