@@ -15,7 +15,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "firebase": "^12.13.0",
-    "framer-motion": "^12.43.0",
+    "framer-motion": "^14.0.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "react-firebase-hooks": "^5.1.1",
